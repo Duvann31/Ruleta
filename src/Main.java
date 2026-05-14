@@ -56,7 +56,6 @@ public class Main {
             apuesta = lector.nextInt();
             }
 
-            System.out.println(" hola");
 
 
 
